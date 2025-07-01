@@ -1,6 +1,8 @@
 # Remove-GraphUserAuthMethods
 
-This PowerShell script automates the removal of legacy software OATH authentication methods from users in Microsoft Entra ID (Azure AD) using the Microsoft Graph PowerShell SDK.
+This PowerShell script automates the removal of legacy software OATH authentication methods from users in Microsoft Entra ID (Azure AD) using the Microsoft Graph PowerShell SDK. See more here:
+
+https://learn.microsoft.com/en-us/graph/api/softwareoathauthenticationmethod-delete?view=graph-rest-1.0&tabs=powershell
 
 ## Features
 
