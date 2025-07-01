@@ -25,7 +25,6 @@ The script uses delegated permissions. The signed-in user must have one of the f
 
 - Authentication Administrator
 - Privileged Authentication Administrator
-- Global Administrator
 
 The following Microsoft Graph delegated permissions must be granted:
 
